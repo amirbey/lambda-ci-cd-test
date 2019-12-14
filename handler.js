@@ -16,3 +16,7 @@ module.exports.hello = async event => {
   // Use this code if you don't use the http event with the LAMBDA-PROXY integration
   // return { message: 'Go Serverless v1.0! Your function executed successfully!', event };
 };
+
+// References:
+// https://serverless.com/blog/lambda-at-edge-support-added/
+// https://circleci.com/blog/deploying-a-serverless-application/
